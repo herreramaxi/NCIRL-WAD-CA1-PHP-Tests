@@ -81,8 +81,8 @@ if (!$xml->schemaValidate('books.xsd')) {
 <?php
 //Example 2: Access to DB
 $servername = "localhost";
-$username = "root";
-$password = "1234";
+$username = "wad";
+$password = "Wad1157590!";
 $dbname = "classicmodels";
 
 // Create connection
