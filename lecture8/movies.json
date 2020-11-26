@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "title": "The Grudge",
+            "year": "2004",
+            "genre": "horror",
+            "director": "Takashi Shimizu"
+        },
+        {
+            "title": "The Godfarther",
+            "year": "1972",
+            "genre": "action",
+            "director": "Andy Wachowski"
+        },
+        {
+            "title": "The Matrix",
+            "year": "1999",
+            "genre": "Drama",
+            "director": "Francis Ford Copolla"
+        },
+        {
+            "title": "The 40 year old virgin",
+            "year": "2005",
+            "genre": "Comedy",
+            "director": "Judd Apatow"
+        }
+    ]
+}
